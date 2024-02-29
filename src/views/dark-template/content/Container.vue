@@ -7,8 +7,12 @@
       <content-section
         title="Who am I?"
       >
-        I'm a developer born in Iran and founder of <a href="http://delix.ir/?utm_source=portiflo&utm_medium=link&utm_content=intro&utm_campaign=delix">Delix.ir</a>, <a href="https://bytegate.ir/?utm_source=portiflo&utm_medium=link&utm_content=intro&utm_campaign=bytegate">Bytegate.ir</a> and <a href="http://bobet.ir/?utm_source=portiflo&utm_medium=link&utm_content=intro&utm_campaign=bobet">Bobet.ir</a> and co-founder of <a href="https://smo.li/?utm_source=portiflo&utm_medium=link&utm_content=intro&utm_campaign=smoli">Smo.li</a>.<br>
-        I'm interested and skilled in different topics of Information Technology including programming, web development, and computer and network security.
+        I'm a full stack developer with over 6 years of expertise, specializing in modern web application development. Proficient in
+Vue.js, TypeScript, and JavaScript for front-end development, as well as Node.js for back-end. Highly motivated and genuinely
+passionate about creating and delivering top-notch, reusable, and efficient software solutions for web-based applications.
+<br>
+<br>
+In the vibrant tech landscape of California, specifically in San Francisco, I've had the opportunity to immerse myself in numerous innovation-driven roles within small startup companies while working remotely for them. This experience has allowed me to lead the development of various features from scratch and gain a wealth of experience in software development.
       </content-section>
       <content-section
         v-if="prouds"

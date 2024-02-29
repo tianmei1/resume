@@ -433,20 +433,6 @@ export default {
       },
       {
         year : '2019',
-        title: 'Open Sourced This Resume',
-        html : `
-          <p>
-              Current status: <span class="light-blue--text lighten-3">Open Sourced</span><br>Available on: <a target="_blank" href="https://github.com/AmirrezaNasiri/vue-modern-resume">AmirrezaNasiri/vue-modern-resume</a>
-          </p>
-          <p>
-            A Vue.js-based and powered-by-Vuetify (material UI kit) resume template which you're seeing right now!
-          </p>
-        `,
-        image: 'img/timeline/vue-modern-resume.png',
-        icon : 'mdi-github-circle',
-      },
-      {
-        year : '2019',
         title: 'Published Vue Registrar Package',
         html : `
           <p>
