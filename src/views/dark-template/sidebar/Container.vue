@@ -10,7 +10,7 @@
           Tian <span class="light-blue--text text--lighten-3">Mei</span>
         </h1>
         <span>
-          A challenge-loving web developer
+          A developer who takes joy in problem-solving and assisting others
         </span>
       </div>
 
@@ -80,6 +80,11 @@ export default {
               name: 'Email',
               icon: 'mdi-email',
               text: 'meitianandmt@gmail.com',
+            },
+            {
+              name: 'Phone',
+              icon: 'mdi-phone',
+              text: '312-536-1075',
             },
             {
               name: 'Website',
@@ -168,18 +173,14 @@ export default {
           items: [
             {
               text : 'English',
-              value: 70,
+              value: 95,
             },
             {
-              text : 'Turkish',
-              value: 45,
-            },
-            {
-              text : 'Azeri',
+              text : 'Chinese',
               value: 100,
             },
             {
-              text : 'Persian',
+              text : 'Mandarin',
               value: 100,
             },
           ],
