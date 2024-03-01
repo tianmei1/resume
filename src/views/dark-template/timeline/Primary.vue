@@ -128,332 +128,97 @@ export default {
     detailed: true,
     items   : [
       {
-        detailed   : true,
+        year       : '2015 Aug',
         transparent: true,
-        year       : '1996',
-        title      : 'Born on Dec 7, 1996',
-        html       : 'With a chance of %0.00000000000512.<br>I\'m completely aware of value of the life!',
-        icon       : 'mdi-cake-variant',
+        title      : `Embark on my journey to pursue a Master's Degree in the United States.`,
       },
       {
-        detailed   : true,
-        transparent: true,
-        year       : '2003',
-        title      : 'Touched a Mouse',
-        html       : 'ME: "Woooow!"<br><i>... Of course got slapped later!</i>',
-        icon       : 'mdi-mouse-variant',
-      },
-      {
-        detailed   : true,
-        year       : '2009',
-        transparent: true,
-        title      : 'Started an7.mahblog.com',
-        html       : `
-                <p>
-                    I'm still emotional about this one. It was August 9, 2009 that I decided to start blogging so <a target="_blank" href="https://web.archive.org/web/20090819185659/http://an7.mahblog.com/">an7.mahblog.com</a> has just showed up! Years later, Mahblog.com got censored in Iran and my blog disappeared. <a target="_blank" href="https://web.archive.org/web/20120626234739/http://www.an7.mahblog.com/">Last archived page</a> was on June 26, 2012.
-                </p>
-                <p>
-                    Back then, my blog used to get more than 500 visitors/day and its Page Rank has reached to level 2 which was actually great! Rest In Peace an7 ...
-                </p>
-                <p>
-                    During 2009 - 2011, many other blogs has been created too. For example:
-                    <ul>
-                        <li>
-                            <a href="https://web.archive.org/web/20100926063748/http://bro2gifs.mihanblog.com/post/5">bro2gifs.mihanblog.com</a> - we were receiving banner designing orders there!
-                        </li>
-                        <li>
-                            <a href="https://web.archive.org/web/20101203082548/http://kdabs.mihanblog.com/">kdabs.mihanblog.com</a> - we were publishing audio books there
-                        </li>
-                        <li>
-                            <a href="http://web.archive.org/web/20100909150338/http://best1shops.mihanblog.com/">best1shops.mihanblog.com</a> - it was our first online shop and we got our first income from there. The feeling of that moment was awesome!
-                        </li>
-                        <li>
-                            And many other blogs I can't really remember!
-                        </li>
-                    </ul>
-                </p>
-        `,
-        image      : 'img/timeline/an7.mahblog.com.png',
-        imageHeight: 200,
-        icon       : 'mdi-web',
-      },
-      {
-        detailed   : true,
-        year       : '2009',
-        transparent: true,
-        title      : 'Created Almas-Khor Game',
-        html       : 'A simple (yet almost unbeatable!) game made with Game Maker. It\'s still available for <a target="_blank" href="https://download.tebyan.net/2687/%D8%A8%D8%A7%D8%B2%DB%8C-%D8%A7%D9%84%D9%85%D8%A7%D8%B3-%D8%AE%D9%88%D8%B1">download here</a>!<br>The reason this game is pretty important for me is that it was my first published program!',
-        image      : 'img/timeline/almas-khor.jpg',
-        iconImage  : 'img/timeline/almas-khor-icon.png',
-      },
-      {
-        detailed   : true,
-        year       : '2011',
-        transparent: true,
-        title      : 'Fished Mobsters!',
-        html       : `
-          <p>
-            Oh shouldn't I include this one?! whatever ...<br>
-            It was 2011 and I'd been addicted to a game called Street Mobsters. On its IR server, which is still available on <a target="_blank" href="https://web.archive.org/web/20111005204247/https://mobgangs.com/">mobgangs.com</a>, I decided to perform a phishing attack and harvest credentials of in-game wealthy people.
-          </p>
-          <p>
-            I hosted a page similar to this one and published it inside the game via various mediums. To be honest, I didn't expect any result but about 40 people had given me their username and passwords! among them, I selected wealthiest ones and ... you know rest of the story just add a Robin Hood at the end!
-          </p>
-          <p>
-            This was the moment I realized how it is easy to actually get misused especially on the net.
-          </p>
-        `,
-        image    : 'img/timeline/street-mobsters.jpg',
-        iconImage: 'img/timeline/street-mobsters-icon.png',
-      },
-      {
-        detailed   : true,
-        year       : '2012',
-        transparent: true,
-        title      : 'Created a Botnet',
-        html       : `
-                <p>
-                    A VB6-based (yes you read it correctly! Visual Basic 6) botnet with dynamic C&Cs on Blogfa.com and many zombies. Just kidding, there were 3 infected PCs only!
-                </p>
-                <p>
-                    It was initially created to perform fraud clicks on one of PPC ads on one of my old blogs. It was designed in a way that the advertiser would not be able to detect the fraud easily.
-                </p>
-                `,
-        icon: 'mdi-desktop-classic',
-      },
-      {
-        year : '2013',
-        title: 'Founded Bytegate.ir',
+        year : 'Jan 2017 ',
+        title: 'Secure a Software Engineer Internship at MacDonald Software',
         html : `
-                    <p>
-                        Current status: <span class="green--text accent-4">Active</span>,
-                        Team: <span class="">1-5 person(s) (variable)</span>
-                    </p>
-                    <p>
-                        The main goal of <a target="_blank" href="https://bytegate.ir/?utm_source=portiflo&utm_medium=link&utm_content=timeline&utm_campaign=bytegate">Bytegate.ir</a> is to extend IT-related articles in Persian web with pretty easy-to-understand and picture-driven articles.
-                    </p>
-                    <p>
-                        The reason I founded Bytegate.ir was because of a dispute about computer stuffs back in school. Soon, I realized that I know NOTHING about computers! Bytegate.ir is the place I've started learning amazing things.
-                    </p>
-                    <p>
-                        Currently there are 600+ articles on the website which helps 4000+ people each day. It's been helping 4 people to cover small part of their expenses.
-                   </p>`,
-        image    : 'img/timeline/bytegate.ir.jpg',
-        iconImage: 'img/timeline/bytegate.ir-icon.png',
-      },
-      {
-        detailed   : true,
-        year       : '2014-15',
-        transparent: true,
-        title      : 'Created a Captcha Solving Farm',
-        /* eslint-disable no-useless-escape */
-        html       : `
-                <p>
-                    I was inspired by a blog post about captcha solving techniques and made my own captcha solving farm and built some basic APIs for <span style="background-color: #d1d1d1;">/(bad)?/g</span> guys to use it.
-                </p>
-                <p>
-                    It was initially created to make me millionaire (!) however, it was never even published since I couldn't find a way to receive money from outside of Iran. It was a stupid attempt in fact! 🤦‍♂️
-                </p>
-                `,
-        /* eslint-enable no-useless-escape */
-        icon: 'mdi-worker',
-      },
-      {
-        year       : '2015',
-        transparent: true,
-        title      : 'Created WifiShield',
-        html       : `
-          <p>
-              Current status: <span class="red--text darken-3">Failed</span>,
-              Team: <span class="">1</span>
-          </p>
-          <p>
-            WifiShield supposed to be a network security application to find vulnerabilities in Wi-Fi networks and fix them by manipulating through their actual configuration user interface.          </p>
-          <p>
-            It was basically a web crawler which is designed to go to default gateway (192.168.1.1 or whatever it was configured) page and interact with its user interfec following predefined action sets.
-          </p>
-          <p>
-            <span class="red--text darken-3">Failing Reason</span>:
-             The main problem with this application was that, I wasn't able to gather all possible firmware/emulators of devices of even a single brand. And of course, every version of a specific models may come in a different firmware version and thus different UI. I've only defined action sets for my own access points and left it as is.
-          </p>
+        <ul>
+  <li>Develop a Cloud-based dashboard with IoT devices for viewing, monitoring, filtering, alerting, and analyzing data.</li>
+  <li>Implement user access control settings for dashboard and features at various levels.</li>
+  <li>Create a Machine Setting Dashboard inside Linux-based IoT Machines with data streaming through AWS Lambda Gateway.</li>
+  <li>Also learned extensively about McDonald's Food POS system, Drive-through system, Mobile Order, Dine-in system, and Kiosk.</li>
+  <li>Designed test cases, fixed unexpected defects on Kiosk, IOS Mobile App, POS with agile teamwork through JIRA and Kanban Board.</li>
+  <li>Designed and implemented Selenium test plans, command-line scripts, deployed new application versions, and tested environments.</li>
+</ul>
         `,
-        image    : 'img/timeline/wifi-shield.png',
-        iconImage: 'img/timeline/wifi-shield-icon.png',
       },
       {
-        year : '2016',
-        title: 'Founded Bobet.ir',
+        year : 'Dec 2017 ',
+        title: 'Get my Master degree in Computer Science',
+      },
+      {
+        year : 'April 2018',
+        title: 'Start first full stack developer Job in IOT startup company',
         html : `
           <p>
-              Current status: <span class="orange--text lighten-1">Taking last breaths</span>,
-              Team: <span class="">1-6 person(s) (variable)</span>
+             <a href="https://www.twelve.co/" target="_blank" > Dynapar </a> - Unicorn in Climate change: <span class="light-blue--text lighten-3"></span><br>
           </p>
-          <p>
-              The purpose of <a target="_blank" href="http://bobet.ir/?utm_source=portiflo&utm_medium=link&utm_content=timeline&utm_campaign=bobet">Bobet.ir</a> is to let people learn English and Turkish languages in a different way by listening to musics with their lyrics, Persian translations and pronunciations of the actual lyric in Persian letters. The website reached 9000 visits/day. More than 270+ musics with contents are published there.
-          </p>
-          <p>
-              The reason behind founding Bobet.ir was pretty simple: testing Google SEO patterns related to musics. But suddenly, it grew up so fast we decided to pivot and work on it as a real project.
-          </p>
-          <p>
-            <span class="orange--text lighten-1">Failing Reason</span>:
-             A year later, it got censored in Iran (since women voice in musics are illegal here!) and the stats dropped suddenly. Before then, it had helped 5 people to cover some pieces of their expenses and had helped <a target="_blank" href="https://mahak-charity.org/main/index.php/fa/">Mahak Charity</a> to receive some donations by promoting it.
-          </p>
+  <ul>
+  <li>Develop a Cloud-based dashboard with IoT devices for viewing, monitoring, filtering, alerting, and analyzing data.</li>
+  <li>Implement user access control settings for dashboard and features at various levels.</li>
+  <li>Create a Machine Setting Dashboard inside Linux-based IoT Machines with data streaming through AWS Lambda Gateway.</li>
+</ul>
         `,
-        image    : 'img/timeline/bobet.ir.jpg',
-        iconImage: 'img/timeline/bobet.ir-icon.png',
+        image    : 'img/timeline/dynapar.png',
+        iconImage: 'img/timeline/dynapar1.png',
       },
       {
-        year       : '2017',
-        transparent: true,
-        title      : 'Founded Telepad',
-        html       : `
-          <p>
-              Current status: <span class="red--text darken-3">Failed</span>,
-              Team: <span class="">1</span>
-          </p>
-          <p>
-            <a target="_blank" href="http://t.me/Telepad_Bot">Telepad</a> was a Telegram assistant bot which helped channel owners to manage their posts easily by scheduling posts, instant editing, ready-to-be-published post suggestions and administrators' role management.
-          </p>
-          <p>
-            The reason behind founding it was personal usage. It was initially created to make Bobet.ir publishing process easier but I decided to let others use it too.
-          </p>
-          <p>
-            <span class="red--text darken-3">Failing Reason</span>:
-             Well, I was alone and couldn't handle its development since I'd been working on other projects too.<br />
-             Starting from there, slowly, I understood the actual value of having a team and focusing on a specific business.
-          </p>
-        `,
-        image    : 'img/timeline/telepad.png',
-        iconImage: 'img/timeline/telepad-icon.png',
-      },
-      {
-        year : '2017',
-        title: 'Founded Delix.ir',
+        year : '2019',
+        title: 'Full Stack Developer',
         html : `
-          <p>
-              Current status: <span class="green--text accent-4">Active</span>,
-              Team: <span class="">1</span>
+        <p>
+              BV USA - A e-commerce company: <span class="light-blue--text lighten-3"></span><br>
           </p>
-          <p>
-            <a target="_blank" href="http://delix.ir/?utm_source=portiflo&utm_medium=link&utm_content=timeline&utm_campaign=delix">Delix.ir</a> is an online image text extractor (OCR) and PDF to Word converter which is built to support Persian language especially. The service also provides APIs to implement its OCR engines into customers' own applications.
-          </p>
-          <p>
-            The reason I founded Delix.ir (<u>D</u>ocument <u>ELIXIR</u>) was because back in school, I found out that there is an unsolved need for this kind of services especially needed by teachers. However, it wasn't developed since 2017.
-          </p>
-          <p>
-            Currently, 3330+ people are using the service. It's still under development and we're going to change the strategy to support B2B market soon.
-          </p>
+          <p>Pioneering the role of a Founding Full Stack Engineer in a vibrant e-commerce enterprise based in Chicago. Driving innovation, shaping digital landscapes, and achieving milestones in the dynamic world of technology and commerce</p>
+          <p>Contributed to the realization of automated advertising, shipping management, inventory control, and invoice management, streamlining processes and enhancing efficiency across the board</p>
         `,
-        image    : 'img/timeline/delix.ir.png',
-        iconImage: 'img/timeline/delix.ir-icon.png',
+        iconImage: 'img/timeline/bv_logo.png',
       },
       {
-        detailed   : true,
-        transparent: true,
-        year       : '2018',
-        title      : 'A Turning Point',
-        html       : `
-          <p>
-          It looks like that 2018 is missing from my CV isn't it? <strong>NOT AT ALL!</strong>
-          </p>
-          <p>
-          This awesome year was a turning point in my life. I found out the reason why my businesses are not growing; what I'm doing wrong; what I've supposed to do and plenty of other thoughts.
-          </p>
-          <p>
-          Technically, I got familiar with and tried to be best (not yet of course!) at the following technologies:
-          <ul>
-          <li>git</li>
-          <li>Laravel</li>
-          <li>Vue.js</li>
-          <li>Arduino</li>
-          <li>Ubuntu</li>
-          <li>TTD and CI/CD</li>
-          <li>Development best practices</li>
-          <li>And more ...</li>
-          </ul>
-          </p>
-          <p>
-          So please don't underestimate this card by its height in pixels. It's worth a lot to me.
-          </p>
+        year : '2021',
+        title: 'Join Spot AI',
+        html : `
+<a href="https://www.spot.ai/" target="_blank" > Spot AI </a>  - Video Intelligence Software
+<ul>
+  <li>Spearheaded the development of a Dashboard outage notice feature, enabling control and monitoring of edge computer health and performance.</li>
+  <li>Innovatively designed and implemented a Connect/Cast Troubleshooting web tool for client-end kiosks, including Smart TVs, PCs, and mobile phones.</li>
+  <li>Architected and constructed connections on Docker containers and Cloudflare tunnels, facilitating seamless communication between the dashboard, API, Cloudflare, and IoT devices to enhance hardware product accessibility.</li>
+  <li>Implemented robust user access control, device settings, and configuration for locations and cameras on both the Dashboard and IoT devices.</li>
+  <li>Contributed to the enhancement of the Video Player dashboard with the development of additional features, optimization of web pages for mobile devices, and improvements in video streaming quality.</li>
+  <li>Designed and implemented...</li>
+</ul>
 
         `,
-        icon: 'mdi-cake-variant',
+        image    : 'img/timeline/spot_image.png',
+        iconImage: 'img/timeline/spot.png',
       },
       {
-        year : '2019',
-        title: 'Open Sourced Telegram Web Bridge',
+        year : '2022',
+        title: 'Full Stack developer',
         html : `
           <p>
-              Current status: <span class="light-blue--text lighten-3">Open Sourced</span><br>Available on: <a target="_blank" href="https://github.com/AmirrezaNasiri/telegram-web-bridge">AmirrezaNasiri/telegram-web-bridge</a>
+             <a href="https://www.twelve.co/" target="_blank" > Twelve </a> - Unicorn in Climate change: <span class="light-blue--text lighten-3"></span><br>
           </p>
-          <p>
-            Telegram Web Bridge is a bidirectional, web-based, proxy-like application which can act as a middleman for Telegram Bot API requests (from your actual application to Telegram) and Webhooks (from Telegram to your actual application).
-          </p>
-          <p>
-            It was initially developed because of Telegram censorship in Iran and the need for it in a storage management software we've built. I decided to publish the codes so anyone with the same problem will be able to handle it.
-          </p>
+          <ul>
+  <li>Orchestrated collaborative initiatives with designers and stakeholders, resulting in the successful delivery of numerous cutting-edge features and receiving positive feedback.</li>
+  <li>Achieved substantial time savings and error reduction through the implementation of essential, efficient, and reusable components.</li>
+  <li>Led the development of pivotal features in the web platform as a full-stack engineer, enhancing data visualization and optimizing operations records.</li>
+  <li>Pioneered innovative solutions to boost the scalability and performance of cloud-based data platforms, ensuring seamless integration with state-of-the-art technologies, machines, and hardware in the climate change industry.</li>
+  <li>Designed and developed a variety of reusable components, including checklists, customizable input fields, and controllable layouts, demonstrating a commitment to efficiency and maintainability.</li>
+  <li>Maintained optimal web platform performance through continuous monitoring and analysis, identifying areas for improvement and implementing solutions to enhance speed, efficiency, and overall user satisfaction.</li>
+</ul>
         `,
-        image: 'img/timeline/telegram-web-bridge.png',
-        icon : 'mdi-github-circle',
-      },
-      {
-        year : '2019',
-        title: 'Open Sourced USB Keystroke Injector',
-        html : `
-          <p>
-            Current status: <span class="light-blue--text lighten-3">Open Sourced</span><br>Available on: <a target="_blank" href="https://github.com/AmirrezaNasiri/usb-keystroke-injector">AmirrezaNasiri/usb-keystroke-injector</a>
-          </p>
-          <p>
-            An Arduino-based keyboard emulator which injects (i.e. types) a sequence of letters received via Bluetooth protocol or read from predefined SD card payloads. Demo GIF is available on the GitHub page.
-          </p>
-          <p>
-            It was initially a university project, made at 2018 but I decided to extend it a little bit and publish it on my GitHub.
-          </p>
-        `,
-        image: 'img/timeline/usb-keystroke-injector.png',
-        icon : 'mdi-github-circle',
-      },
-      {
-        year : '2019',
-        title: 'Co-Founded Smo.li',
-        html : `
-          <p>
-              Current status: <span class="green--text accent-4">Active</span>,
-              Team: <span class="">2</span>
-          </p>
-          <p>
-            <a target="_blank" href="https://smo.li/?utm_source=portiflo&utm_medium=link&utm_content=timeline&utm_campaign=smoli">Smoli</a> is a URL shortener and link tracking platform that also allows you to add eye-catching and branded call-to-actions to any page on the web. See a demo of Forbes campaign on Business News Daily: <a target="_blank" href="http://smo.li/+demo-forbes">smo.li/+demo-forbes</a>.
-          </p>
-          <p>
-            The service has been founded by <a target="_blank" href="https://www.linkedin.com/in/saeidhabibpour/">Saeid Habibpour</a> (CEO) and me (CTO). Currently, the MVP is ready and we're researching the market.
-          </p>
-        `,
-        image    : 'img/timeline/smo.li.png',
-        iconImage: 'img/timeline/smo.li-icon.png',
-      },
-      {
-        year : '2019',
-        title: 'Published Vue Registrar Package',
-        html : `
-          <p>
-              Current status: <span class="light-blue--text lighten-3">Published</span><br>Available on: <a target="_blank" href="https://github.com/AmirrezaNasiri/vue-registrar">AmirrezaNasiri/vue-registrar</a>
-          </p>
-          <p>
-            A Vue.js package that makes developers' code a lot cleaner and much more understandable. It's consisted of two features that:
-            <ul>
-                <li>Registers all your common and frequently used components globally and ends the need for importing them manually;</li>
-                <li>Assembles all your vuex modules in a nested manner.</li>
-            </ul>
-          </p>
-        `,
-        image    : 'img/timeline/vue-registrar-demo.png',
-        iconImage: 'img/timeline/vue-registrar-logo.png',
+        image    : 'img/timeline/twelve.png',
+        iconImage: 'img/timeline/twelve_logo.png',
       },
       {
         year : 'So far ...',
-        title: 'Written 340+ Unique Articles!',
-        html : `I'm the guy who loves teaching! So far, I've written 340+ unique articles which most of them are computer-related. You can access them here:
-                    <ul><li><a target="_blank" href="https://bytegate.ir/author/amirrezanasiri/">My posts on Bytegate.ir</a> (260+ Computer-related)</li><li><a target="_blank" href="http://bobet.ir/author/amirrezanasiri/">My posts on Bobet.ir</a> (80+ translations)</li></ul>`,
+        title: 'Looking for new oppotinuties',
+        html : `I am currently seeking new opportunities and challenges, eager to delve into continuous learning, and elevate my technical skills and capabilities. I am in search of a broader platform where I can optimize my potential and contribute positively. Embracing a mindset of continuous growth, I am excited about the prospect of expanding my horizons and achieving new milestones in my professional journey.`,
         icon: 'mdi-fountain-pen-tip',
       },
     ],
